@@ -42,18 +42,7 @@ vandan = {
 
 ### 📊 DSA Progress — NeetCode 150
 
-| Topic | Progress |
-|---|---|
-| Arrays | `████████░░` 8 / 9 |
-| Two Pointers | `░░░░░░░░░░` 0 / 5 |
-| Sliding Window | `░░░░░░░░░░` 0 / 6 |
-| Stack | `░░░░░░░░░░` 0 / 7 |
-| Binary Search | `░░░░░░░░░░` 0 / 7 |
-| Linked List | `░░░░░░░░░░` 0 / 11 |
-| Trees | `░░░░░░░░░░` 0 / 15 |
-| Graphs | `░░░░░░░░░░` 0 / 13 |
-| Dynamic Programming | `░░░░░░░░░░` 0 / 40 |
-| **Total** | **8 / 150** |
+![LeetCode Stats](https://leetcard.jacoblin.cool/vandandev?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8)
 
 ---
 

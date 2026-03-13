@@ -42,8 +42,11 @@ vandan = {
 
 ### 📊 DSA Progress — NeetCode 150
 
+<div align="center">
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vandandev?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8)
 
+</div>
 ---
 
 ### 📈 GitHub Stats

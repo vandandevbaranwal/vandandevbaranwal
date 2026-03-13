@@ -72,6 +72,16 @@ vandan = {
 
 ---
 
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=fb7185)](https://instagram.com/vandandevbaranwal_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://linkedin.com/in/vandandevbaranwal)
+[![Codolio](https://img.shields.io/badge/Codolio-0f172a?style=for-the-badge&logo=dev.to&logoColor=10b981)](https://codolio.com/profile/vandandev)
+
+</div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=100&section=footer" />

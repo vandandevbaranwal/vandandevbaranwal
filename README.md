@@ -75,11 +75,7 @@ vandan = {
 
 </div>
 
-<div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vandandevbaranwal&bg_color=0f172a&color=94a3b8&line=38bdf8&point=10b981&area=true&hide_border=true)](https://github.com/vandandevbaranwal)
-
-</div>
 
 ---
 

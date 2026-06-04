@@ -56,29 +56,13 @@ vandan = {
 
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vandandevbaranwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=10b981&text_color=94a3b8&cache_seconds=3600&rank_icon=github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vandandevbaranwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=10b981&text_color=94a3b8&cache_seconds=3600&rank_icon=github"
-    height="160"
-    alt="Vandan's GitHub Stats"
-  />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vandandevbaranwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&cache_seconds=3600&langs_count=6"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandandevbaranwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&cache_seconds=3600&langs_count=6"
-    height="160"
-    alt="Top Languages"
-  />
-</picture>
+<img src="https://ghchart.rshah.org/38bdf8/vandandevbaranwal" alt="Vandan's GitHub Contribution Chart" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vandandevbaranwal&bg_color=0f172a&color=94a3b8&line=38bdf8&point=10b981&area=true&hide_border=true)](https://github.com/vandandevbaranwal)
 
 </div>
 

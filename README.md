@@ -28,15 +28,17 @@ vandan = {
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8)
-![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=38bdf8)
 ![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=38bdf8)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0f172a?style=for-the-badge&logo=scikit-learn&logoColor=f59e0b)
-![Canva](https://img.shields.io/badge/Canva-0f172a?style=for-the-badge&logo=canva&logoColor=a78bfa)
-![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=fb7185)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572b6)
+![Arduino](https://img.shields.io/badge/Arduino-0f172a?style=for-the-badge&logo=arduino&logoColor=10b981)
 ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=fb7185)
 ![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visual-studio-code&logoColor=38bdf8)
-![Arduino](https://img.shields.io/badge/Arduino-0f172a?style=for-the-badge&logo=arduino&logoColor=10b981)
+![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=fb7185)
+![Canva](https://img.shields.io/badge/Canva-0f172a?style=for-the-badge&logo=canva&logoColor=a78bfa)
 
 </div>
 

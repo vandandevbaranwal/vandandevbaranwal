@@ -96,9 +96,7 @@ vandan = {
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=fb7185)](https://instagram.com/vandandevbaranwal_)
-<a href="https://linkedin.com/in/vandandevbaranwal" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/vandandevbaranwal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=f59e0b)](https://leetcode.com/vandandev)
 [![CodeChef](https://img.shields.io/badge/CodeChef-0f172a?style=for-the-badge&logo=codechef&logoColor=10b981)](https://www.codechef.com/users/vandandev)
 [![Codolio](https://img.shields.io/badge/Codolio-0f172a?style=for-the-badge&logo=dev.to&logoColor=10b981)](https://codolio.com/profile/vandandev)

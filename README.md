@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=200&section=header&text=Vandan%20Dev%20Baranwal&fontSize=40&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=EE%20Student%20%7C%20Developer%20%7C%20Designer&descAlignY=58&descColor=94a3b8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=200&section=header&text=Vandan%20Dev%20Baranwal&fontSize=40&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=EE%20Student%20%7C%20Developer%20%7C%20AI\ML&descAlignY=58&descColor=94a3b8" />
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Building+at+the+intersection+of+EE+%2B+AI;NeetCode+150+%E2%86%92+One+problem+a+day;Working+toward+GSoC+2027;Patterns+over+memorization.+Always.)](https://git.io/typing-svg)

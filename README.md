@@ -15,7 +15,7 @@ vandan = {
     "education"  : "B.Tech Electrical Engineering @ IET Lucknow",
     "semester"   : "2nd Semester",
     "interests"  : ["AI/ML", "DSA", "Open Source", "EE", "Design"],
-    "currently"  : ["NeetCode 150", "scikit-learn contributions", "fast.ai"],
+    "currently"  : ["NeetCode 250", "scikit-learn contributions", "fast.ai"],
     "target"     : "GSoC 2027 — Scientific Python",
     "motto"      : "2 focused hours > 10 scattered ones"
 }

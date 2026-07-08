@@ -58,10 +58,7 @@ vandan = {
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=vandandevbaranwal&theme=tokyonight&hide_border=true&background=0F172A&stroke=1E293B&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B"
-  alt="GitHub Streak"
-/>
+![GitHub Streak](https://streak-stats.demolab.com?user=vandandevbaranwal&theme=tokyonight&hide_border=true)
 
 </div>
 

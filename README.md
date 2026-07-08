@@ -58,8 +58,10 @@ vandan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vandandevbaranwal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=vandandevbaranwal&theme=tokyonight&hide_border=true"/>
+<img
+  src="https://streak-stats.demolab.com?user=vandandevbaranwal&theme=tokyonight&hide_border=true&background=0F172A&stroke=1E293B&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B"
+  alt="GitHub Streak"
+/>
 
 </div>
 

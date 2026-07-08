@@ -58,9 +58,8 @@ vandan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vandandevbaranwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=vandandevbaranwal&theme=tokyonight&hide_border=true&background=0F172A"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vandandevbaranwal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=vandandevbaranwal&theme=tokyonight&hide_border=true"/>
 
 </div>
 

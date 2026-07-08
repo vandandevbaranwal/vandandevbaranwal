@@ -1,29 +1,29 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=200&section=header&text=Vandan%20Dev%20Baranwal&fontSize=40&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=EE%20Student%20%7C%20Developer%20%7C%20AI\ML&descAlignY=58&descColor=94a3b8" />
-<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Building+at+the+intersection+of+EE+%2B+AI;NeetCode+150+%E2%86%92+One+problem+a+day;Working+toward+GSoC+2027;Patterns+over+memorization.+Always.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=200&section=header&text=Vandan%20Dev%20Baranwal&fontSize=40&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=EE%20Student%20%7C%20Developer%20%7C%20AI%2FML&descAlignY=58&descColor=94a3b8"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Building+at+the+intersection+of+EE+%2B+AI;NeetCode+250+%E2%86%92+One+problem+a+day;Working+toward+GSoC+2027;Patterns+over+memorization.+Always.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🧠 About Me
+# 🧠 About Me
 
 ```python
 vandan = {
-    "education"  : "B.Tech Electrical Engineering @ IET Lucknow",
-    "semester"   : "2nd Semester",
-    "interests"  : ["AI/ML", "DSA", "Open Source", "EE", "Design"],
-    "currently"  : ["NeetCode 250", "scikit-learn contributions", "fast.ai"],
-    "target"     : "GSoC 2027 — Scientific Python",
-    "motto"      : "2 focused hours > 10 scattered ones"
+    "education": "B.Tech Electrical Engineering @ IET Lucknow",
+    "semester": "2nd Semester",
+    "interests": ["AI/ML","DSA","Open Source","EE","Design"],
+    "currently": ["NeetCode 250","scikit-learn contributions","fast.ai"],
+    "target": "GSoC 2027 — Scientific Python",
+    "motto": "2 focused hours > 10 scattered ones"
 }
 ```
 
 ---
 
-### 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
@@ -44,7 +44,7 @@ vandan = {
 
 ---
 
-### 📊 DSA Progress — NeetCode 150
+# 📊 DSA Progress — NeetCode 250
 
 <div align="center">
 
@@ -54,44 +54,47 @@ vandan = {
 
 ---
 
-### 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/38bdf8/vandandevbaranwal" alt="Vandan's GitHub Contribution Chart" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vandandevbaranwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=vandandevbaranwal&theme=tokyonight&hide_border=true&background=0F172A"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vandandevbaranwal&bg_color=0f172a&color=94a3b8&line=38bdf8&point=10b981&area=true&hide_border=true)](https://github.com/vandandevbaranwal)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vandandevbaranwal&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=vandandevbaranwal&theme=tokyonight&hide_border=true&background=0f172a&stroke=1e293b&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569"
-  alt="GitHub Streak"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vandandevbaranwal/vandandevbaranwal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vandandevbaranwal/vandandevbaranwal/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vandandevbaranwal/vandandevbaranwal/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
-
-
 
 ---
 
-### 🎨 Beyond Code
+# 🎨 Beyond Code
 
-- ⚡ **E-Cell IET Lucknow** — Volunteer | Strategic planning of national hackathons & incubation initiatives
-- 🖌 **Graphic Designer** — Excelsior (Literary Club) & Parmarth (Social Club) @ IET Lucknow
-- 🧠 Exploring the intersection of **Electrical Engineering + AI/ML**
-- 🏆 **HackerRank** — 5⭐ Python
-- 📡 Active on **CodeChef** weekly contests | 2⭐ Rated (1431)
+- ⚡ **E-Cell IET Lucknow** — Volunteer
+- 🖌 Graphic Designer — Excelsior & Parmarth
+- 🧠 Exploring **Electrical Engineering + AI/ML**
+- 🏆 HackerRank — 5⭐ Python
+- 📡 CodeChef — 2⭐ Rated
 
 ---
 
-### 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -103,6 +106,16 @@ vandan = {
 
 </div>
 
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=100&section=footer" />
+
+![](https://komarev.com/ghpvc/?username=vandandevbaranwal&style=for-the-badge&color=38bdf8)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=100&section=footer"/>
+
 </div>

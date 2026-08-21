@@ -59,10 +59,7 @@ vandan = {
 <div align="center">
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=vandandevbaranwal&theme=tokyonight&hide_border=true&cache_seconds=86400&v=5"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=vandandevbaranwal&theme=tokyonight&hide_border=true&cache_seconds=86400&v=5" alt="GitHub Streak" />
 </p>
 
 </div>
